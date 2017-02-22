@@ -39,3 +39,22 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [3.0.0-beta2] - 2015-08-10
 
 ## [3.0.0-beta1] - 2015-07-02
+
+[Unreleased]: https://github.com/slimphp/Slim/compare/3.7.0...HEAD
+[3.7.0]: https://github.com/slimphp/Slim/compare/3.6.0...3.7.0
+[3.6.0]: https://github.com/slimphp/Slim/compare/3.5.0...3.6.0
+[3.5.0]: https://github.com/slimphp/Slim/compare/3.4.2...3.5.0
+[3.4.2]: https://github.com/slimphp/Slim/compare/3.4.1...3.4.2
+[3.4.1]: https://github.com/slimphp/Slim/compare/3.4.0...3.4.1
+[3.4.0]: https://github.com/slimphp/Slim/compare/3.3.0...3.4.0
+[3.3.0]: https://github.com/slimphp/Slim/compare/3.2.2...3.3.0
+[3.2.2]: https://github.com/slimphp/Slim/compare/3.2.1...3.2.2
+[3.2.1]: https://github.com/slimphp/Slim/compare/3.2.0...3.2.1
+[3.2.0]: https://github.com/slimphp/Slim/compare/3.1.0...3.2.0
+[3.1.0]: https://github.com/slimphp/Slim/compare/3.0.0...3.1.0
+[3.0.0]: https://github.com/slimphp/Slim/compare/3.0.0-RC3...3.0.0
+[3.0.0-RC3]: https://github.com/slimphp/Slim/compare/3.0.0-RC2...3.0.0-RC3
+[3.0.0-RC2]: https://github.com/slimphp/Slim/compare/3.0.0-RC1...3.0.0-RC2
+[3.0.0-RC1]: https://github.com/slimphp/Slim/compare/3.0.0-beta2...3.0.0-RC1
+[3.0.0-beta2]: https://github.com/slimphp/Slim/compare/3.0.0-beta1...3.0.0-beta2
+[3.0.0-beta1]: https://github.com/slimphp/Slim/tree/3.0.0-beta1
